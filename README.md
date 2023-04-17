@@ -9,7 +9,7 @@
 Still in highschool but have some projects here and there
 <h2>Skills</h2>
 <ul>
-<li>HTML, CSS</li>
+<li>HTML, CSS/Tailwind</li>
 <li>Javascript/Typescript</li>
 <li>Java</li>
 <li>Python</li>
