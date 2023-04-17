@@ -2,7 +2,6 @@
 <ul>
 <li>Web Developer</li>
 <li>Been programming for 4 years.</li>
-<li>I live in USA, Maryland</li>
 </ul>
 
 <h2>Experience</h2>
