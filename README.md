@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Zero2Hero123
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, Javascript, & Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2>About Me</h2>
+<ul>
+<li>Web Developer</li>
+<li>Been programming for 4 years.</li>
+<li>I live in USA, Maryland</li>
+</ul>
 
-<!---
-Zero2Hero123/Zero2Hero123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Experience</h2>
+Still in highschool but have some projects here and there
+<h2>Skills</h2>
+<ul>
+<li>HTML, CSS</li>
+<li>Javascript/Typescript</li>
+<li>Java</li>
+<li>Python</li>
+<li>React</li>
+<li>Express.js</li>
+<li>SQL/mySQL</li>
+</ul>
