@@ -5,15 +5,29 @@
 </ul>
 
 <h2>Experience</h2>
-Still in highschool but have some projects here and there
+Senior at Parkville High
+Been programming for 5 years. <br>
+Most Recent Projects
+<ul>
+  <li>https://connect4butbetter.vercel.app/</li>
+  <li>https://www.churchill.biz/</li>
+</ul>
 <h2>Skills</h2>
 <ul>
-  <li>HTML, CSS/Tailwind</li>
+  <li>HTML, CSS/Tailwind, shadcn</li>
+  <li>React</li>
+  <li>NextJS</li>
   <li>Javascript/Typescript</li>
   <li>Java</li>
   <li>Python</li>
-  <li>React</li>
+
+  <li>Prisma</li>
+  <li>Supabase</li>
+
+  <li>Git</li>
+  <li>Docker</li>
+  
   <li>Express.js</li>
-  <li>Django</li>
+  <li>NestJS</li>
   <li>SQL/mySQL</li>
 </ul>
