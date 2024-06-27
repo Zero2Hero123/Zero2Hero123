@@ -1,6 +1,6 @@
 <h2>About Me</h2>
 <ul>
-<li>Web Developer</li>
+<li>Aspiring Software Engineerli>
 <li>Been programming for 4 years.</li>
 </ul>
 
