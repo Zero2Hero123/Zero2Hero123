@@ -11,7 +11,6 @@ Most Recent Projects
 <ul>
   <li>https://rosterprofessional.com</li>
   <li>https://connect4butbetter.vercel.app/</li>
-  <li>https://www.churchill.biz/</li>
 </ul>
 <h2>Skills</h2>
 <ul>
