@@ -1,5 +1,9 @@
-Hello! I'm Hero. 
+## Hello! I'm Hero
 
+🕺🏾 Aspiring Software Engineer on the path to greatness! <br/>
+🎓 Current High school senior at Parkville High (Projected to graduate May 2025) <br/>
+🔵 My favorite color is blue </br>
+👨🏾‍💻 I love to code! <br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zero2heroooo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hero-e-651b06276) 
